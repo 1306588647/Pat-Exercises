@@ -1,9 +1,5 @@
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190807171246203.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTIwMTE5MTI=,size_16,color_FFFFFF,t_70)  
+# 程序设计比赛练习
 
-# PAT程序设计题目总结  
+![65F53C2E-D255-4EE9-A675-F0C0F3F69D2B](C:\Users\13065\Desktop\65F53C2E-D255-4EE9-A675-F0C0F3F69D2B.png)
 
-## 英雄各有见 
-
-## 何必问出处
-
-## fighting
+## FIGHTING
